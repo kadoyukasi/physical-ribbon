@@ -1,0 +1,19 @@
+{
+  "[python]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.ruff": "explicit",
+      "source.organizeImports.ruff": "explicit"
+    },
+    "editor.formatOnSave": true
+  },
+  "cSpell.words": [
+    "figsize",
+    "imread",
+    "keypoints",
+    "linalg",
+    "linestyle",
+    "ndarray",
+    "xlabel",
+    "ylabel"
+  ]
+}
